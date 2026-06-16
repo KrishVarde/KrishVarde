@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Krish 👋</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack in Progress</h3>
+<h3 align="center">Computer Science Engineering Student | Full-Stack Developer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Learning+Full-Stack+Development;Building+Real+Things+to+Learn+Real+Skills;Slow+Progress+%3E+Fake+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Socket.IO;Slow+Progress+%3E+Fake+Progress" />
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ## 🧠 About Me
 
 * 🎓 Computer Science Engineering student
-* 🛠️ Building full-stack apps to actually understand how things work
-* 🧩 Currently going deeper into backend systems, real-time communication, and browser APIs
+* 🛠️ Building full-stack apps -- real-time systems, REST APIs, and browser extensions
+* 🧩 Currently going deeper into backend architecture and system design
 * 🧪 Interested in AI, human psychology, and how systems behave internally
 * 🌌 Space and physics enjoyer
 
@@ -53,7 +53,7 @@
 
 ## 📈 Current Focus
 
-* Going deeper into backend -- auth, real-time systems, and database design
+* Going deeper into backend architecture -- auth, real-time systems, and database design
 * Understanding how things work under the hood, not just making them work
 * Writing code to learn, not to farm stars
 
